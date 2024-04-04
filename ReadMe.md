@@ -8,4 +8,4 @@ LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
 LANGCHAIN_API_KEY="<my-api-key>"
 LANGCHAIN_PROJECT="LiteLLM"
 
-eval.py contains an exmaple of tests you can run against datasets in LangSmith.
+eval.py contains an example of tests you can run against datasets in LangSmith.
