@@ -1,5 +1,5 @@
 # LLM monitoring with LangSmith
-This repository contains an example integration of LangSmith in a python application. You can read the associated blog post on [The Quality Duck](Insert-link) website.
+This repository contains an example integration of LangSmith in a python application. You can read the associated blog post on [The Quality Duck](https://www.thequalityduck.co.uk/testing-ai-how-to-do-observability-of-your-llm-right/) website.
 
 test.py contains the necessary code to provide a prompt to Ollama running a Llama 2 model and captures a trace that it will forward to LangSmith - You will need to set your envionment variables accordingly in order for this to work:
 
